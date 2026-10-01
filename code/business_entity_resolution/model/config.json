@@ -1,0 +1,9 @@
+{
+  "accept": 0.97,
+  "band_low": 0.05,
+  "rescore": 0.7,
+  "corruption_countries": [
+    "India",
+    "US"
+  ]
+}
